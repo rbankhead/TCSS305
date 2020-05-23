@@ -1,0 +1,55 @@
+###################################
+# Users files.                    #
+# It is not a good idea to store  #
+# passwords in a plain text file. #
+# We do it here to keep the       #
+# application simple.             #
+#                                 #
+# uwnetid;passwd;campus           #
+###################################
+test;test;Tacoma
+test;Bothell;test
+abc;Tacoma;123
+rbank;Tacoma;test
+1;Tacoma;1
+1;Tacoma;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Tacoma;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+caitlyn;Seattle;hi
+1;Bothell;1
+2;Bothell;2
+1;Bothell;1
+11;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Bothell;1
+1;Tacoma;1
+1;Bothell;1
